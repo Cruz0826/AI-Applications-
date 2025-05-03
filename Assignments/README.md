@@ -17,10 +17,10 @@ This folder contains a collection of assignments and key certifications complete
     - Challenges like bias in AI, data privacy concerns, and regulatory issues
     - Positives like automation, efficiency improvements, and accessibility in services
 - **Files:** 
-    - [Week 1: Philosophy and AI & Ethical and Societal Implications of AI](.)
-    - [Week 2: Recent Advancements and Future Trends in AI](./Assignments/ClassNotes/Week2_HealthcareAI.md)
-    - [Week 3: AI in HealthCare and Agriculture] (./Assignments/ClassNotes/Week3_EthicsAI.md)
-    - [Week 4: AI in Finance] (./Assignments/ClassNotes/Week3_EthicsAI.md)
+    - [Week 1: Philosophy and AI & Ethical and Societal Implications of AI]
+    - [Week 2: Recent Advancements and Future Trends in AI]
+    - [Week 3: AI in HealthCare and Agriculture] 
+    - [Week 4: AI in Finance]
     - [Week 5: AI in Entertainment and Media]
     - [Week 6: AI in Blockchain Intergration]
     - [Week 7: AI in Retail]
@@ -29,7 +29,7 @@ This folder contains a collection of assignments and key certifications complete
 ## 3. **Case Studies**
 - **Description:** In-depth analysis of AI applications in various industries.
 - **Files:**
-    - [Case Study 1: Ethical and Societal Implications of AI](./Assignments/CaseStudies/FinanceAI.md)
-    - [Case Study 2: AI in Government and Public Sector](./Assignments/CaseStudies/EducationAI.md)
-    - [Case Study 3: AI in Manufacturing](./Assignments/CaseStudies/HealthcareAI.md)
-    - [Case Study 4: AI in AGI](./Assignments/CaseStudies/MediaAI.md)
+    - [Case Study 1: Ethical and Societal Implications of AI]
+    - [Case Study 2: AI in Government and Public Sector]
+    - [Case Study 3: AI in Manufacturing]
+    - [Case Study 4: AI in AGI]
