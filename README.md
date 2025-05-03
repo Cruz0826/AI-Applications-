@@ -3,14 +3,14 @@ A portfolio that showcases key learnings and insights from AI applications.
 
 Welcome to my AI Course Portfolio. This repository contains all my coursework, projects, notes, and helpful resources. 
 
-##  Contents
+## 📁 Contents
 
 - **Assignments:** Completed assignments from the course
 - **Projects:** Larger projects and case studies
 - **Notes:** Summarized notes from key topics covered
 - **Resources:** External links and reading materials I found useful
 
-## 🧠 Key Learnings
+## 🧠📚 Key Learnings
 
 This course taught me foundational AI concepts including:
 - The difference between AI, Machine Learning, and AGI
@@ -18,7 +18,7 @@ This course taught me foundational AI concepts including:
 - Ethical issues like data privacy, bias, and AI governance
 
 
-## 🔗 Resources
+## 🔗💡 Resources
 
 A curated list of helpful links and articles can be found in the [`Resources/`](./Resources) folder.
 
