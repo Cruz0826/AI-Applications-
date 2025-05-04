@@ -10,7 +10,7 @@ Each assignment explores real-world uses of AI across different sectors, examini
 - 
 ### Included Assignments:
 
-- ✅ AI in Finance: Fraud Detection 
+- ✅ AI in Finance: Fraud Detection Special Assignment
 - ✅ AI in Smart Cities & Government Lecture Notes
 - ✅ AI in Agriculture & Healtcare Lecture Notes
 - ✅ AI in Retail Industry Lecture Notes
