@@ -35,7 +35,7 @@ This document includes helpful websites, guides, and tools that supported my lea
 
 ---
 
-## 🛠️ AI Tools (Optional)
+## 🛠️ AI Tools 
 
 - [Teachable Machine by Google](https://teachablemachine.withgoogle.com/)  
   A beginner-friendly tool to create simple AI models using images, sounds, or poses.
