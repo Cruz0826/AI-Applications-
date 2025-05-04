@@ -8,12 +8,13 @@ This folder contains a series of case studies completed during the **Artificial 
 ## 🔍 Case Study Overviews
 
 ### 1. 🏦 Ethical and Societal Implications of AI: A case Study on Deepfakes
+This assignment explores the benefits and challenges of using Artificial Intelligence in the Government and Public Sector. 
 
 ### 2. 🎓 Advantages of using AI in Government and Public Sector: A case study on a AI-powered disaster response in Japan 
+This assignment aims to explore the benefits and potential of Artificial Intelligence (AI) in enhancing government and public sector services. Students will critically evaluate real-world case studies and propose innovative applications of AI to address challenges in governance.
 
 ### 3. 🏛️ AI in Manufacturing Industry 
-
-
+This assignment aims to explore how Artificial Intelligence (AI) is transforming the manufacturing industry by improving efficiency, reducing costs, and enhancing production quality. 
 
 ## 🎯 Purpose
 
